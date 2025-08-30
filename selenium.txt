@@ -1,0 +1,9 @@
+selenium 
+junit, testng
+ddt, bdd, tdd
+api testing 
+git
+cucmber framwrk
+ci/cd
+katalon
+
